@@ -1,0 +1,14 @@
+Progrmming Fundamentals, HTML, CSS, JS
+Software
+	VS 2022, SQL Server with SSMS
+---------------------------
+Goals
+	1. Be a part of new project on .net core
+		MVC
+		WebAPI (developer / Consumer)
+		EF 
+	2. Be a part of existing project
+----------------------------
+Break - 11 - 11:15
+
+

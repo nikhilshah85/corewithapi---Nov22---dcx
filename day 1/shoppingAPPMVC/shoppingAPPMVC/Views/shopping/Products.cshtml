@@ -1,0 +1,45 @@
+﻿
+
+
+<h3> List of Products Coming soon .....</h3>
+
+
+@*
+<ul>
+@foreach (var item in ViewBag.pCategories)
+{
+    <li> @item </li>
+}
+</ul>*@
+
+@*<select>
+    @foreach (var item in ViewBag.pCategories)
+    {
+        <option> @item </option>
+    }
+</select>*@
+
+@foreach (var item in ViewBag.pCategories)
+{
+    <input type="checkbox" /> @item 
+}
+
+<hr/>
+
+<table class="table table-striped">
+
+    @foreach (var item in ViewBag.pList)
+    {
+        <tr>
+        <td> @item.pId </td>
+        <td> @item.pName </td>
+        <td> @item.pPrice </td>
+        <td> @item.pIsInStock </td>
+        <td> @item.pDiscountRate </td>
+        <td> <button class="btn btn-primary"> Add </button> </td>
+             <td> <button class="btn btn-warning"> Edit </button> </td>
+            <td> <button class="btn btn-danger"> Delete </button> </td>
+        </tr>
+    }
+
+</table>

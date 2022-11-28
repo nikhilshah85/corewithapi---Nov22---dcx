@@ -1,0 +1,184 @@
+
+
+
+
+
+			Start ups
+			Middle level oraganization 
+	
+		Cost of development is too high + cost of production 
+			1. On .net framework platform
+			a. Visual Studio (Licence) - cost - 20 team members - 60,000 per licence
+				12,00,000
+			b. Windows OS (Licence) - 10K per user
+				2,00,000
+			c. Windows Server (Licence) - 2x per year - 1 server 
+				4,00,000 
+
+	-----------------------------------------------------------------
+			20 lakhs initial cost 
+			Server centric application against Client centeric apps
+
+	-------------------------------------------------------------------
+			NodeJS (free)
+			Angular, React
+			Tools are free 
+			Develop and host for free  
+
+		Thus its a challange
+		All Cloud platforms are on linux
+--------------------------------------------------------------------------------------------------
+		1. Microsoft had to rewrite whole framework (Open source) 
+			.Net Core (Develop anywhere, run anywhere)
+		2. VS Code (free, install anywhere, develop anywhere, connect anywhere)
+
+		3. Standard way to develop any .net core app on any platform, build and run
+		4. WebServer - Open source - for all platform Krestal
+		.net core installation, comes with .net core CLI (Command Line interface)	
+	
+			dotnet --version
+			dotnet new mvc --name firstcoreapp
+			dotnet build
+			dotnet run
+			dotnet test
+			
+			Try
+			10:28 - 10:35
+				Create new mvc app with cli
+				Createa a new webapi app with cli
+			build
+			run the app
+			make changes
+
+			Next:
+				MVC in detail
+
+
+
+
+		MVC is a design patter for createing Web Contents
+			
+
+		Model (.cs) - Data part of application (server side)
+			CRUD Operations
+			Sorting, filtering, calculation, validation
+			Make an WebAPI call (server end) 
+		View (.cshtml) - UI part of application
+			html, css, js
+			Razor syntax
+			bootstrap, jquery
+			Client side validation, calculation, filter etc..
+			Make an WebAPI call (client end)	
+		Controller(.cs) - cordinator
+			collect data from view, pass to Model
+			collect data from Model, pass to view
+			Authentication, security, encryption, caching etc...
+
+-----------------------------------------------------------------------------------------------
+
+			Break : 11:00 - 11:15
+
+			First MVC Application using Visual Studio
+			
+			We want to see how
+			Communication between
+
+				Controller and View (vise-versa)
+				Controller and Model (vise-versa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
