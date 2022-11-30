@@ -1,0 +1,18 @@
+﻿
+
+<h1> Top Products </h1> <span> @Html.ActionLink("Add New","AddNewproduct") </span>
+
+<table class="table">
+    @foreach (var item in ViewBag.pList)
+    {
+        <tr>
+            <td> @item.PId </td>
+            <td> @item.PName </td>
+            <td> @item.PCategory </td>
+            <td> @item.PPrice </td>
+            <td> @item.PIsInStock </td>
+            <td>  @Html.ActionLink("Edit","EditProduct","Products",new { id = item.PId } )   </td>
+            <td>  @Html.ActionLink("Delete","DeleteProduct","Products",new { pid = item.PId } )   </td>
+        </tr>
+    }
+</table>

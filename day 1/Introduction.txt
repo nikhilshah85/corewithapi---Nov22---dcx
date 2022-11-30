@@ -56,7 +56,7 @@
 
 
 
-		MVC is a design patter for createing Web Contents
+		MVC is a design pattern for createing Web Contents
 			
 
 		Model (.cs) - Data part of application (server side)

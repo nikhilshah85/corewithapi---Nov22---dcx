@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 1\\shoppingAPPMVC\\shoppingAPPMVC\\shoppingAPPMVC.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 1\\shoppingAPPMVC\\shoppingAPPMVC\\shoppingAPPMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 1\\shoppingAPPMVC\\shoppingAPPMVC\\shoppingAPPMVC.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 1\\shoppingAPPMVC\\shoppingAPPMVC\\shoppingAPPMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 1\\shoppingAPPMVC\\shoppingAPPMVC\\shoppingAPPMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 1\\shoppingAPPMVC\\shoppingAPPMVC\\shoppingAPPMVC.csproj",
         "projectName": "shoppingAPPMVC",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 1\\shoppingAPPMVC\\shoppingAPPMVC\\shoppingAPPMVC.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 1\\shoppingAPPMVC\\shoppingAPPMVC\\shoppingAPPMVC.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 1\\shoppingAPPMVC\\shoppingAPPMVC\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 1\\shoppingAPPMVC\\shoppingAPPMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

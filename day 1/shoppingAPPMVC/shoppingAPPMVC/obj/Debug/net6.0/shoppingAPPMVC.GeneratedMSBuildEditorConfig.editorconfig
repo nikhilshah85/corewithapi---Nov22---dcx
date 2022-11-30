@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = shoppingAPPMVC
 build_property.RootNamespace = shoppingAPPMVC
-build_property.ProjectDir = C:\Users\Administrator\Desktop\.Net Core with webapi\day 1\shoppingAPPMVC\shoppingAPPMVC\
+build_property.ProjectDir = C:\Users\Administrator\Desktop\.Net Core with webapi\corewithapi---Nov22---dcx\day 1\shoppingAPPMVC\shoppingAPPMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Administrator\Desktop\.Net Core with webapi\day 1\shoppingAPPMVC\shoppingAPPMVC
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\Desktop\.Net Core with webapi\corewithapi---Nov22---dcx\day 1\shoppingAPPMVC\shoppingAPPMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/Home/Index.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/Home/Privacy.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/Shared/Error.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/shopping/About.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/shopping/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2hvcHBpbmdcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/shopping/Customers.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/shopping/Customers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2hvcHBpbmdcQ3VzdG9tZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/shopping/Products.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/shopping/Products.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2hvcHBpbmdcUHJvZHVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/_ViewImports.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/_ViewStart.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 1/shoppingAPPMVC/shoppingAPPMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-n60m8fqbse

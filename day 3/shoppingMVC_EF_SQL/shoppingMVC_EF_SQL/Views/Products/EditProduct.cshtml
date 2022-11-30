@@ -1,0 +1,19 @@
+﻿
+
+
+
+<form method="post">
+
+    <input type="number" placeholder="Enter New Product Id" class="form-control" name="changes.PID" value="@ViewBag.productToEdit.PId" />
+    <input type="text" placeholder="Enter New Product Name" class="form-control" name="changes.PName" value="@ViewBag.productToEdit.PName" />
+    <input type="number" placeholder="Enter New Product Price" class="form-control" name="changes.PPrice" value="@ViewBag.productToEdit.PPrice" />
+    <select class="form-control" name="changes.PCategory" value="@ViewBag.productToEdit.PCategory">
+        <option> Electronics </option>
+        <option> Cold-Drinks </option>
+        <option> Food </option>
+        <option> Shoes </option>
+        <option> Accessories </option>
+    </select>
+    <input type="text" placeholder="Is product Available in stock" class="form-control" name="changes.PIsInStock" value="@ViewBag.productToEdit.PIsInStock" />
+    <button type="submit" class="btn btn-warning"> Update Product </button>
+</form>

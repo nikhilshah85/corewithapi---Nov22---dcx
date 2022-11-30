@@ -25,6 +25,16 @@
         };
         #endregion
 
+
+        public List<string> GetCategories()
+        {
+            List<string> categories = new List<string>()
+           {
+               "Cold-Drinks", "Shoes", "Electronics","Furniture","Accessories"
+           };
+            return categories;
+        }
+
         public List<ProductsModel> GetProductsModels()
         {
             return pList;

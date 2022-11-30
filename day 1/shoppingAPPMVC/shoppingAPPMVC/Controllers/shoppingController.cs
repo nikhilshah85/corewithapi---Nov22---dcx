@@ -20,13 +20,16 @@ namespace shoppingAPPMVC.Controllers
 
             //Wrong way of programming and only bad developers will do this
             // string[] categories = new string[10];
-            List<string> categories = new List<string>()
-           {
-               "Cold-Drinks", "Shoes", "Electronics","Furniture","Accessories"
-           };
-            ViewBag.pCategories = categories;
+           // List<string> categories = new List<string>()
+           //{
+           //    "Cold-Drinks", "Shoes", "Electronics","Furniture","Accessories"
+           //};
+           // ViewBag.pCategories = categories;
+
+            
 
             ProductsModel pObj = new ProductsModel(); //this is the worst code by develoeper, please use DI
+            ViewBag.pCategories = pObj.GetCategories();
             ViewBag.plist = pObj.GetProductsModels();
 
 
