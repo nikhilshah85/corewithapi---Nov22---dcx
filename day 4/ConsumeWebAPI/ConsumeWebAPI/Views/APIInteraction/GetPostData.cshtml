@@ -1,0 +1,16 @@
+﻿
+
+
+
+<table class="table table-hover">
+    @foreach (var item in ViewBag.post)
+    {
+        <tr>
+            <td> @item.id  </td>
+            <td> @item.id + 200 </td>
+            <td> @item.userId </td>
+            <td> @item.title </td>
+            <td> @item.body </td>
+        </tr>
+    }
+</table>

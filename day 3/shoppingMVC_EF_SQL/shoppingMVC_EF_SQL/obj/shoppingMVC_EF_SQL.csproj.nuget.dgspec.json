@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 3\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 3\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 3\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 3\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 3\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 3\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL.csproj",
         "projectName": "shoppingMVC_EF_SQL",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 3\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 3\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 3\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 3\\shoppingMVC_EF_SQL\\shoppingMVC_EF_SQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

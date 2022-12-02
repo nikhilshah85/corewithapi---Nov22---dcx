@@ -1,0 +1,96 @@
+Datasource 
+	InMemory collection (suitable for small data size, more of static data)
+	Database 
+		ADO .Net
+		EF Core 
+			Database First Approach
+				Data centeric application
+			Code First Approach (write POCo classes and database gets created)
+				frontend centeric application
+	REST API 
+			when client wants to give you data, but not access to their server
+			Consume REST API Service to show data on View 
+
+			can be consument using
+				Client Side(js) - fetch api (javascript in built into every browser)
+					returns a promise
+					Async operation
+					Fastest way to get data (Javascript)
+				Server Side(C#) - HttpClient 
+					returns a promise 
+					Async operation
+					Safest way to get the data
+
+-------------------------------------------------------------------------
+			Fetch API - this is a standard - nothing to do with Microsoft
+
+				fetch(url,{optional - postdata)}).then(dataconversion)
+					  .then(data => { displaydata })
+				          .catch(error => {display error})
+					  .finally()
+
+	Task:
+
+Make an fetch api call to
+https://jsonplaceholder.typicode.com/users
+
+display in a table
+Id            - result.Id
+Name	      - result.Name
+UserName      -result.UserName
+Email	     -result.email
+City	-result.address.City
+CompanyName -result.company.name
+Company CatchPhase -result.company.catchphase
+-----------------------------------------
+	3:10 - 3:25
+
+
+
+	Challanges with Fetch API
+		1. It works only on browser, not on desktop app, console app :(
+		2. Since it is JS, thus client side
+			a. What if JS is blocked on user browser / network
+			b. logic gets visible easily
+
+	Thus, server side for avoiding the above reasons
+		step 1: Create a model file, with properties of data which comes from API calls
+		step 2: use HttpClient to make, calls 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
