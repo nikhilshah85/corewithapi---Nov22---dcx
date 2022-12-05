@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 5\\bankingMVC\\bankingMVC\\bankingMVC.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 5\\bankingMVC\\bankingMVC\\bankingMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 5\\bankingMVC\\bankingMVC\\bankingMVC.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 5\\bankingMVC\\bankingMVC\\bankingMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 5\\bankingMVC\\bankingMVC\\bankingMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 5\\bankingMVC\\bankingMVC\\bankingMVC.csproj",
         "projectName": "bankingMVC",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 5\\bankingMVC\\bankingMVC\\bankingMVC.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 5\\bankingMVC\\bankingMVC\\bankingMVC.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\day 5\\bankingMVC\\bankingMVC\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\.Net Core with webapi\\corewithapi---Nov22---dcx\\day 5\\bankingMVC\\bankingMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

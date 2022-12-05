@@ -9,81 +9,81 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = bankingMVC
 build_property.RootNamespace = bankingMVC
-build_property.ProjectDir = C:\Users\Administrator\Desktop\.Net Core with webapi\day 5\bankingMVC\bankingMVC\
+build_property.ProjectDir = C:\Users\Administrator\Desktop\.Net Core with webapi\corewithapi---Nov22---dcx\day 5\bankingMVC\bankingMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Administrator\Desktop\.Net Core with webapi\day 5\bankingMVC\bankingMVC
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\Desktop\.Net Core with webapi\corewithapi---Nov22---dcx\day 5\bankingMVC\bankingMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Banking/BankHome.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Banking/BankHome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua2luZ1xCYW5rSG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Banking/DownloadStatement.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Banking/DownloadStatement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua2luZ1xEb3dubG9hZFN0YXRlbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Banking/Services.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Banking/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua2luZ1xTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Banking/TransferMoney.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Banking/TransferMoney.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua2luZ1xUcmFuc2Zlck1vbmV5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Home/Index.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Home/Privacy.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Products/Create.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Products/Delete.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Products/Details.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Products/Edit.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Products/Index.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Shared/Error.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/_ViewImports.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/_ViewStart.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/.Net Core with webapi/day 5/bankingMVC/bankingMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 5/bankingMVC/bankingMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gvzctkm8k2
