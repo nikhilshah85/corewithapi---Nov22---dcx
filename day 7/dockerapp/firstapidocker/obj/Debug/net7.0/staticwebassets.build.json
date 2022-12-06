@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uNn2yvPrKqs8XgN8BCROrrGX3B2ezrrD2etw5TNchYM=",
+  "Source": "firstapidocker",
+  "BasePath": "_content/firstapidocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

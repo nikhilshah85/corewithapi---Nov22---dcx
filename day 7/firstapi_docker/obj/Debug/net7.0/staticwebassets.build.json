@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CTFOXVtdRoAloHsaMYps2v2gcN5zHBF6qzswmGJsdfw=",
+  "Source": "firstapi_docker",
+  "BasePath": "_content/firstapi_docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

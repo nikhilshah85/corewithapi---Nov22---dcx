@@ -1,0 +1,44 @@
+docker --version
+docker images (check the list of application)
+docker ps (docker process - list the running app)
+dotnet new mvc --name firstdockerapp
+cd firstdockerapp
+dotnet build
+dotnet run
+add a dockerfile (this file gets added in vs2022, when u choose add docker file in the last window of create new project)
+docker build . -t trainingapp
+docker login
+docker tag trainingapp nikhilshahdocker/trainingapp:gold
+docker push nikhilshahdocker/trainingapp:gold
+
+-----------------
+clients - end users
+docker pull nikhilshahdocker/trainingapp:gold
+docker images
+docker run -d -p 9000:80 nikhilshahdocker/trainingapp:gold
+check the output on browser - http://localhost:9000
+
+
+docker pull nikhilshahdocker/firstwebapi_docker:v1
+docker run -d -p 5000:80 nikhilshahdocker/firstwebapi_docker:v1
+check the output on browser - http://localhost:5000
+
+MVC 
+EF Core
+WEB API - consume and develop
+Identity framework
+deploy to Azure 
+dpoly to docker
+
+
+
+
+
+
+
+
+
+
+
+
+

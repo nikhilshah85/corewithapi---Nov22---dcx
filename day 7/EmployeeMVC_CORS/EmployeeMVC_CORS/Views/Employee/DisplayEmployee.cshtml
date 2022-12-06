@@ -1,0 +1,38 @@
+﻿
+
+<script>
+    function getEmployee()
+    {
+        fetch('https://localhost:7239/api/Employee/elist').then( data => data.json())
+                                                            .then(result =>{
+                                                                console.log(result);
+
+                                                                for(var i=0;i<result.length;i++)
+                                                                {
+                                                                    $("table").append("<tr>" +
+                        "<td>" + result[i].eId + "</td>" +
+                        "<td>" + result[i].eName + "</td>" +
+                        "<td>" + result[i].eDesignation + "</td>" +
+                        "<td>" + result[i].eIsPermenant + "</td>" +
+                        "<td>" + result[i].eSalary + "</td>" +
+                                                                    
+                                                                    
+                                                                    + "</tr>")
+                                                                }
+                                                            })
+                                                            .catch(err =>{
+                                                                console.log(err);
+                                                            })
+    }
+</script>
+
+
+
+
+<button class="btn btn-info" onclick="getEmployee()">
+    Show Employees
+</button>
+
+<table class="table table-bordered"></table>
+
+
