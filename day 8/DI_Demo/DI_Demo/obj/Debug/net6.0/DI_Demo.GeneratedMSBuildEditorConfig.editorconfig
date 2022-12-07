@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DI_Demo
+build_property.RootNamespace = DI_Demo
+build_property.ProjectDir = C:\Users\Administrator\Desktop\.Net Core with webapi\corewithapi---Nov22---dcx\day 8\DI_Demo\DI_Demo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\Desktop\.Net Core with webapi\corewithapi---Nov22---dcx\day 8\DI_Demo\DI_Demo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/dept/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/dept/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/dept/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/dept/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/dept/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Products/ShowProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcU2hvd1Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Shared/Partials/_Calculator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9DYWxjdWxhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Shared/Partials/_deptByLocation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9kZXB0QnlMb2NhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/.Net Core with webapi/corewithapi---Nov22---dcx/day 8/DI_Demo/DI_Demo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-81s4l1uyb4

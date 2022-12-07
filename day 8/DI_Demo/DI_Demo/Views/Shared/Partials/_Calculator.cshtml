@@ -1,0 +1,29 @@
+﻿<div style="background-color:lime;width:250px"> 
+
+    <p> @ViewBag.time</p>
+    <input type="number" placeholder="Enter First Number" id="principal"/> <br/>
+    <input type="number" placeholder="Enter Second Number" id="roi" /><br />
+    Years :<select id="duration">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+    </select><br />
+    <button class="btn btn-primary" onclick="calculate()"> Calculate</button>
+
+    <h4 id="intrest"> </h4>
+
+</div>
+
+<script>
+    function calculate()
+    {
+        var principal = $("#principal").val();
+        var roi = $("#roi").val();
+        var duration = $("#duration").val();
+
+        var intrest = ((principal * roi) / 100) * duration;
+        $("#intrest").text("Intrest : " + intrest);
+
+    }
+</script>

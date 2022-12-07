@@ -1,0 +1,43 @@
+
+
+
+
+		ProductsAPI 
+
+		[EnableCors("guestsPOlicy")]
+		ProductsController - (everyone should be able to see the Products) [GET] - AllCustomers\
+			here we will put only get
+
+
+		ProductsCRUDController - (sellers can, GET, PUT, POST, DELETE) - AllSellers
+		OrdersController
+			getAllOrders()  ------------------ AmazonAdmin
+			[EnableCors("Orders_Seller")]
+			getAllOrdersBySellerId(sellerId) --- AmazonAdmin and Seller
+			getOrderByOrderIdOrCustomer(customerId) - AmazonAdmin, AmazonSeller, AmCustomer
+		
+
+	--------------------------------------------------------------------------------
+		Policy
+		AddPolicy("guestsPOlicy",g=> { g.AllowAnyMethod().g.AllowAnyDomain().g.AllowAnyHeader())
+		AddPolicy("Orders_AmazonAdmin",
+				admin => {g.AllowAnyMethod().g.AllowAnyDomain().g.AllowAnyHeader()))
+
+
+		AddPolicy("Orders_Seller"),
+				admin => {admin.AllowMethod(new string["getAllOrdersBySellerId",
+								   getOrderByOrderIdOrCustomer"])
+					.admin.AllowAnyDomain().admin.AllowAnyHeader()))
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+﻿
+<h6> List of Dept </h6>
+
+    
+
+    <table class="table table-striped">
+        @foreach (var item in ViewBag.dept)
+        {
+            <tr>
+            <td> @item.DId </td>
+            <td> @item.DName </td>
+            <td> @item.DLocation </td>
+            </tr>
+        }
+    </table>

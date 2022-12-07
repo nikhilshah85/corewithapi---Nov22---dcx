@@ -1,0 +1,42 @@
+1. Dependency Injection (IOC - inversion of control)
+2. Data Annotation
+3. Partial Pages
+
+-------------------------------------------------------------------------
+	As a developer we create a lots of object, we do not write 
+		Destructor
+		Dispose 
+		Clean up - unreference an object from an memory
+	
+		developers feel GC will come and do it for us
+
+	-------------
+		We also need to share object between
+			with same user with multiple request
+			with multiple users
+
+	------------------------------------------------
+		Instead now, Framework will create an object, and Inject it whereever needed
+			will take care of shareing the object, with users, request and respose etc..
+			will take care of destroying the object
+
+	-----------------------------------------------------------------
+		Part 2 : Config - When should framework destroy the object
+			1. PerCall - Transcient - create new object for every new request and destroy 
+						the object after response
+			2. PerSession - Scoped - create new object for every user, destroy when session 
+						gets closed
+			3. Global - SingleTon - create a new object, share the same object with every user
+						destroy when u stop the server
+
+
+
+
+
+
+
+
+
+
+
+			
